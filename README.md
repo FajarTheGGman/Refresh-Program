@@ -1,10 +1,10 @@
 # Refresh Program
 
-[![](https://img.shields.io/badge/Version-1.0-green)] [![](https://img.shields.io/badge/Copyright-2019-green)]
+[![](https://img.shields.io/badge/Version-1.0-lime)] [![](https://img.shields.io/badge/Copyright-2019-red)]
 
 ![](https://github.com/FajarTheGGman/Refresh-Program/blob/master/.media/ss.gif)
 
-![](https://github.com/FajarTheGGman/Refresh-Program/blob/master/.media/ss.png)
+![](https://github.com/FajarTheGGman/Refresh-Program/blob/master/.media/ss.PNG)
 
 # How to run ?
 
