@@ -2,6 +2,8 @@
 
 [![](https://shields.io/badge/Version-1.0-green)]
 
+[!(https://github.com/FajarTheGGman/Refresh-Program/blob/master/.media/ss.gif)]
+
 ![alt-text]()
 
 # How to run ?
