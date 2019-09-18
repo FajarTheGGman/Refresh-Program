@@ -10,7 +10,7 @@
 
 
 
-# How to run ?
+# How to install ?
 
 <P>Linux</p>
 <pre>
