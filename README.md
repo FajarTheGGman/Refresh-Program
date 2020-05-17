@@ -54,3 +54,6 @@ Report Error on my social media :)
 <pre>
 [!] This program only works in nodejs 
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
